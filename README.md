@@ -1,6 +1,7 @@
 # Sebastián González Juárez
 
 Physics student at UNAM (Facultad de Ciencias).  
+
 Interests: Quantum Computing, Quantum Machine Learning (QML), Variational Quantum Algorithms (VQAs), Deep Learning and Scientific Machine Learning.
 
 Profile: I am a Physics student at the National Autonomous University of Mexico with a focused interest in quantum

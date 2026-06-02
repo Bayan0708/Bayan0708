@@ -1,14 +1,15 @@
 # Sebastián González Juárez
 
-Physics student at UNAM (Facultad de Ciencias).  
+**Physics Student — National Autonomous University of Mexico (UNAM)**
 
-Interests: Quantum Computing, Quantum Machine Learning (QML), Variational Quantum Algorithms (VQAs), Deep Learning and Scientific Machine Learning.
+## Research Interests
 
-Profile: I am a Physics student at the National Autonomous University of Mexico with a focused interest in quantum
-computing and machine learning. I am currently conducting research at the Advanced Digital Image Processing
-Laboratory (LAPI), where I develop hybrid models that integrate neural networks with Quantum Machine
-Learning techniques applied to image processing. My background combines theoretical physics, experimental
-work, and a range of programming tools, allowing me to approach problems from an interdisciplinary
-perspective.
+Quantum Computing, Quantum Machine Learning (QML), Variational Quantum Algorithms (VQAs), Deep Learning, Artificial Intelligence, and Scientific Computing.
 
-GitHub profile: [Bayan0708](https://github.com/Bayan0708)
+## Professional Profile
+
+I am a Physics student at the National Autonomous University of Mexico (UNAM) with a strong interest in the intersection of quantum computing and machine learning. I am currently conducting research at the Advanced Digital Image Processing Laboratory (LAPI), where I develop and evaluate hybrid quantum-classical models for image classification tasks using Quantum Machine Learning techniques.
+
+My experience includes hybrid neural network architectures, variational quantum algorithms, digital image processing, and deep learning, as well as the implementation of scientific computing solutions using modern programming and computational tools. I am particularly interested in applying quantum technologies to real-world challenges in artificial intelligence and computer vision.
+
+## GitHub profile: [Bayan0708](https://github.com/Bayan0708)
